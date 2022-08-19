@@ -1,9 +1,9 @@
-# iNeuron Website
+# Shopify.in
 
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-blue)
 ![](https://img.shields.io/badge/React%20Js-Tailwind%20CSS-brightgreen)
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-green)
-![](https://img.shields.io/badge/FindCoder-Full%20Stack%20Js%20Hackathon-yellow)
+![](https://img.shields.io/badge/FindCoder-Full%20Stack%20Js%20Bootcamp-yellow)
 
 The project contains clone of website `Shopify.in`. This is a fully responsive clone of Paytm.com build purely with `HTML`, `Css` and `Tailwind Css`. Utilised the efficient power of tailwind css to build this full responsive clone. 
 Learnt to use tailwind css to build production ready UI's in minimum time possible. 
@@ -29,7 +29,7 @@ Learnt to use tailwind css to build production ready UI's in minimum time possib
  # Website
  ![](./screenshots/fullpage.png)
 
- # Mobile Responsive Design
+
 
  
 
